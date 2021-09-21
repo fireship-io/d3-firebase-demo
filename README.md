@@ -1,5 +1,5 @@
-## D3.JS Firebase demo
+## Realtime Charts with D3.js & Firebase
 
-### Build a bar chart using a Vite Vanilla JS project with D3 and Firestore.
+Build an animated bar chart that updates in realtime with [D3 and Firestore](https://fireship.io/lessons/realtime-charts-d3-firebase).
 
 ![Preview](preview.png)
