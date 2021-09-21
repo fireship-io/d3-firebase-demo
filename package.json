@@ -1,0 +1,16 @@
+{
+  "name": "d3-firebase",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.10"
+  },
+  "dependencies": {
+    "d3": "^7.0.3",
+    "firebase": "^9.0.2"
+  }
+}
